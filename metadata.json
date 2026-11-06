@@ -1,0 +1,6 @@
+{
+  "name": "Prime Store | Body Splash My Sweet Delight",
+  "description": "Loja oficial Prime Store - Body Splash My Sweet Delight Barbour’s Beauty 200ml com checkout integrado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
